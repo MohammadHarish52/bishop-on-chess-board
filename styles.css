@@ -1,0 +1,22 @@
+.heading{
+    text-align: center;
+}
+.table{
+    margin:0 auto;
+    cursor:pointer;
+}
+.box{
+    width:70px;
+    height:70px;
+    border:1px solid gray;
+    border-style:1 inset;
+}
+.box.white{
+    background:#fff;
+}
+.box.black{
+    background:#000000;
+}
+.box.blue{
+    background:#1e32cd;
+}
